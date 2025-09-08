@@ -1,0 +1,6 @@
+NAME: gedelapraveena
+section: bsc-cs
+suc:2342230221
+rollno:46
+email:praveenagedela1310@gmail.com
+
